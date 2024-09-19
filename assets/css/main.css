@@ -1673,7 +1673,7 @@ input, select, textarea {
 		.coin {
 			font-size:1.5rem;
 			font-weight: bold;
-			color: rgb(134, 0, 0);
+			color: rgb(0, 46, 232);
 		}	
 
 		#when {
@@ -1685,6 +1685,6 @@ input, select, textarea {
 		#ca {
 			font-size: 2rem;
 			font-weight: bold;
-			color: rgb(255, 255, 255);
+			color: rgb(189, 0, 0);
 		}
 
