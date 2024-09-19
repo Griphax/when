@@ -1669,3 +1669,15 @@ input, select, textarea {
 		#dad {
 			padding-top: 2rem ;
 		}
+
+		.coin {
+			font-size:1.5rem;
+			font-weight: bold;
+			color: rgb(134, 0, 0);
+		}	
+
+		#when {
+			font-size: 5.2rem;
+			font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+		}
+
